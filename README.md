@@ -35,6 +35,7 @@ Figma
 ## CODE:
 ```
 Home page
+
 <div style="width: 360px; height: 800px; position: relative; background: #130B2B">
   <div style="width: 321px; height: 521px; left: 23px; top: 188px; position: absolute; opacity: 0.90; background: linear-gradient(167deg, #2E1371 0%, #130B2B 100%); border-radius: 50px"></div>
   <div style="width: 275px; height: 34px; left: 48px; top: 383px; position: absolute; background: #F6F6F6; border-radius: 5px; border: 1px #E8E8E8 solid"></div>
@@ -61,6 +62,7 @@ Home page
 </div>
 
 page 2
+
 <div style="width: 360px; height: 800px; position: relative; background: #130B2B">
   <img style="width: 360px; height: 800px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/360x800" />
   <div style="width: 24px; height: 24px; left: 19px; top: 12px; position: absolute">
@@ -77,6 +79,7 @@ page 2
 </div>
 
 page 3
+
 <div style="width: 360px; height: 800px; position: relative; background: #130B2B">
   <div style="width: 24px; height: 24px; left: 19px; top: 12px; position: absolute">
     <div style="width: 15px; height: 12px; left: 4px; top: 6px; position: absolute; border: 2px white solid"></div>
